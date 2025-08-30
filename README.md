@@ -10,3 +10,4 @@
 <p align="left">
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 <img width="40" height="40" src="https://img.icons8.com/officel/40/selenium-test-automation.png" alt="selenium-test-automation"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
