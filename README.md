@@ -1,16 +1,41 @@
-<h1 align="center">Hi, I'm Kayal Prashanth</h1>
-<h3 align="center">A Software Test Engineer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=900&size=42&pause=1000&color=FFA500&center=true&vCenter=true&width=800&lines=KAYAL+PRASHANTH&repeat=false" />
+</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=700&size=28&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=SOFTWARE+TEST+ENGINEER;AUTOMATION+ENTHUSIAST&repeat=false" />
+</h3>
+
+
+
+
+### 📌 Connect with me  
+<a href="https://linkedin.com/in/kayal-prashanth-r" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
+
+### 🛠️ Languages & Tools  
+
 <p align="left">
-<a href="https://linkedin.com/in/kayal-prashanth-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kayal-prashanth-r" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
+  <img width="5" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"/>
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="40" height="40"/>
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIHdpZHRoPSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTMyIDE2YTI0IDI0IDAgMTE0OCAwIDI0IDI0IDAgMTEtNDggMHoiIGZpbGw9IiMwMDk5MDAiLz48cGF0aCBkPSJNMTYgNjRhMjQgMjQgMCAxMTQ4IDAgMjQgMjQgMCAxMS00OCAweiIgZmlsbD0iI0ZGMDAwMCIvPjxwYXRoIGQ9Ik02NCAxMTJhMjQgMjQgMCAxMTQ4IDAgMjQgMjQgMCAxMS00OCAweiIgZmlsbD0iIzAwRkYwMCIvPjwvc3ZnPg==&logoColor=white)
 
-</p>
+### 📊 Stats  
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kayalprashanthr&theme=dark&hide_border=true&layout=compact)
